@@ -1,0 +1,12 @@
+2020-13-09 15:13:13.044 [main] ERROR passwordChecker - Password should be longer than 8 Characters
+2020-13-09 15:13:13.047 [main] ERROR passwordChecker - password should have at least one uppercase letter
+2020-13-09 15:13:13.048 [main] ERROR passwordChecker - password should at least have one digit
+2020-17-09 15:17:44.725 [main] ERROR passwordChecker - Password should be longer than 8 Characters
+2020-17-09 15:17:44.730 [main] ERROR passwordChecker - password should have at least one uppercase letter
+2020-17-09 15:17:44.731 [main] ERROR passwordChecker - password should at least have one digit
+2020-38-11 10:38:33.973 [main] ERROR passwordChecker - Password should be longer than 8 Characters
+2020-38-11 10:38:33.979 [main] ERROR passwordChecker - password should have at least one uppercase letter
+2020-38-11 10:38:33.980 [main] ERROR passwordChecker - password should at least have one digit
+2020-33-12 14:33:43.844 [main] ERROR passwordChecker - Password should be longer than 8 Characters
+2020-33-12 14:33:43.852 [main] ERROR passwordChecker - password should have at least one uppercase letter
+2020-33-12 14:33:43.852 [main] ERROR passwordChecker - password should at least have one digit
